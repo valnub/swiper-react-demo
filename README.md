@@ -9,3 +9,6 @@ $ yarn
 ```
 $ yarn start
 ```
+
+## YouTube Video Tutorial
+[https://youtu.be/l4kFO6VQPfA](https://youtu.be/l4kFO6VQPfA)
